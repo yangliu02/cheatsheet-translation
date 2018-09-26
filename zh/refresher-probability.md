@@ -1,83 +1,83 @@
 1. **Probabilities and Statistics refresher**
 
 &#10230;
-
+概率论与数理统计回顾
 <br>
 
 2. **Introduction to Probability and Combinatorics**
 
 &#10230;
-
+概率论与组合数学入门
 <br>
 
 3. **Sample space ― The set of all possible outcomes of an experiment is known as the sample space of the experiment and is denoted by S.**
 
 &#10230;
-
+样本空间：一次随机试验所有可能结果所构成的集合，称为该试验的样本空间，用S表示。
 <br>
 
 4. **Event ― Any subset E of the sample space is known as an event. That is, an event is a set consisting of possible outcomes of the experiment. If the outcome of the experiment is contained in E, then we say that E has occurred.**
 
 &#10230;
-
+事件：样本空间的任意一个子集E称为一个事件，或者说事件就是一个由试验可能出现的结果组成的集合。如果试验所得结果包含在事件E中，则我们称事件E发生了。
 <br>
 
 5. **Axioms of probability For each event E, we denote P(E) as the probability of event E occuring.**
 
 &#10230;
-
+概率的相关定理：事件E发生的可能性，我们用P(E)来表示
 <br>
 
 6. **Axiom 1 ― Every probability is between 0 and 1 included, i.e:**
 
 &#10230;
-
+定理1 - 所有的概率都在0和1之间（包含0和1），即：
 <br>
 
 7. **Axiom 2 ― The probability that at least one of the elementary events in the entire sample space will occur is 1, i.e:**
 
 &#10230;
-
+定理2 - 整个样本空间至少有一个基本事件（样本空间中的一个结果，也称样本点）发生的概率是1，即：
 <br>
 
 8. **Axiom 3 ― For any sequence of mutually exclusive events E1,...,En, we have:**
 
 &#10230;
-
+定理3 - 对于任何互不相容的一组事件E1...En, 我们有：
 <br>
 
 9. **Permutation ― A permutation is an arrangement of r objects from a pool of n objects, in a given order. The number of such arrangements is given by P(n,r), defined as:**
 
 &#10230;
-
+排列：从n个不同元素中，任取r个元素按照一定的顺序排成一列，称为一个“排列”。所有可能出现的不同的排列数目由P（n,r）给出，定义为：
 <br>
 
 10. **Combination ― A combination is an arrangement of r objects from a pool of n objects, where the order does not matter. The number of such arrangements is given by C(n,r), defined as:**
 
 &#10230;
-
+组合：从n个不同元素中，任取r个元素并成一组（与顺序无关），称为一个“组合”。所有可能出现的不同的组合数目由C(n,r)给出，定义为：
 <br>
 
 11. **Remark: we note that for 0⩽r⩽n, we have P(n,r)⩾C(n,r)**
 
 &#10230;
-
+备注：对于0⩽r⩽n， P(n,r)⩾C(n,r)
 <br>
 
 12. **Conditional Probability**
 
 &#10230;
-
+条件概率
 <br>
 
 13. **Bayes' rule ― For events A and B such that P(B)>0, we have:**
 
 &#10230;
-
+贝叶斯公式（Bayes' rule）：对于随机事件A和B，其中P(B)>0, 我们有
 <br>
 
 14. **Remark: we have P(A∩B)=P(A)P(B|A)=P(A|B)P(B)**
-
+备注：由此可得 P(A∩B)=P(A)P(B|A)=P(A|B)P(B)
 &#10230;
 
 <br>
